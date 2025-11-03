@@ -1,0 +1,15 @@
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\bin\Debug\net9.0\Calculator.exe
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\bin\Debug\net9.0\Calculator.deps.json
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\bin\Debug\net9.0\Calculator.dll
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\bin\Debug\net9.0\Calculator.pdb
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\obj\Debug\net9.0\Calculator.dll
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\obj\Debug\net9.0\Calculator.pdb
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+E:\developer\oop2-fall-2025-26\project\Calculator\Calculator\obj\Debug\net9.0\ref\Calculator.dll
