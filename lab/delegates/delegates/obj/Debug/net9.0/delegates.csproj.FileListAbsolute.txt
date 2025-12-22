@@ -1,0 +1,14 @@
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\bin\Debug\net9.0\delegates.exe
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\bin\Debug\net9.0\delegates.deps.json
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\bin\Debug\net9.0\delegates.runtimeconfig.json
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\bin\Debug\net9.0\delegates.dll
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\bin\Debug\net9.0\delegates.pdb
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\obj\Debug\net9.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\obj\Debug\net9.0\delegates.AssemblyInfoInputs.cache
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\obj\Debug\net9.0\delegates.AssemblyInfo.cs
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\obj\Debug\net9.0\delegates.csproj.CoreCompileInputs.cache
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\obj\Debug\net9.0\delegates.dll
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\obj\Debug\net9.0\refint\delegates.dll
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\obj\Debug\net9.0\delegates.pdb
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\obj\Debug\net9.0\delegates.genruntimeconfig.cache
+E:\developer\oop2-fall-2025-26\lab\delegates\delegates\obj\Debug\net9.0\ref\delegates.dll
